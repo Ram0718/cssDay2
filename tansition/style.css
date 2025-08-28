@@ -97,6 +97,7 @@ h3{
     background-color: blanchedalmond;
    left: 120px;
    bottom: 150px;
+   padding: 0;
    opacity: 0;
    font-size: 50px;
    font-style: italic;
@@ -108,7 +109,7 @@ h3{
 .c1:hover h3{
     opacity: 1;
 }
-.c2:hover img{
+git status
     opacity: 0;
 }
 .c2:hover h3{
@@ -145,4 +146,6 @@ h3{
 }
 .c8:hover h3{
     opacity: 1;
+  
+
 }
